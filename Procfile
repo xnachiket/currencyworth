@@ -1,1 +1,4 @@
-worker: gunicorn PPP.wsgi
+web: gunicorn PPP.wsgi
+
+
+
