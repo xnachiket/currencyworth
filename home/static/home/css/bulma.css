@@ -289,11 +289,10 @@ body {
 }
 
 
-
-.element {
-  
-  transform: scale(4);
+.noscroll::-webkit-scrollbar {
+    display: none;
 }
+
 
 
 #bg{
