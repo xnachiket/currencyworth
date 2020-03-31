@@ -2468,13 +2468,6 @@ fieldset[disabled] .button.is-info.is-inverted.is-outlined {
 }
 
 
-#third{
-     background: url("/static/img/sample.jpeg") 50% 0 no-repeat fixed;
-     color: white;
-     height: 650px;
-     padding: 100px 0 0 0;   
-     }
-
 
 
 .button.is-info.is-light:hover, .button.is-info.is-light.is-hovered {
